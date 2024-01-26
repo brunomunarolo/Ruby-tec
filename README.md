@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Actions Status: MinGW](https://github.com/ruby/ruby/workflows/MinGW/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"MinGW")
 [![Actions Status: RJIT](https://github.com/ruby/ruby/workflows/RJIT/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"RJIT")
 [![Actions Status: Ubuntu](https://github.com/ruby/ruby/workflows/Ubuntu/badge.svg)](https://github.com/ruby/ruby/actions?query=workflow%3A"Ubuntu")
@@ -94,3 +95,8 @@ See ["Contributing to Ruby"](https://docs.ruby-lang.org/en/master/contributing_m
 Ruby was originally designed and developed by Yukihiro Matsumoto (Matz) in 1995.
 
 <matz@ruby-lang.org>
+=======
+# Ruby
+
+ Outros
+>>>>>>> 2b2e3dc6aa0a4bfd0c470021251e4d5175346f8a
